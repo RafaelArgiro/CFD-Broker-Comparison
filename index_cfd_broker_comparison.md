@@ -104,11 +104,11 @@ CFD schedule dated 20 September 2026**.
 
 | Index | Indicative dealing spread by session (index points) |
 | --- | --- |
-| S&P 500 (US 500) | 0.5 during 15:30--22:00; 1.7 during 23:00--00:00; 1.1 at other listed times |
-| Nasdaq 100 (US Tech 100) | 1.1 during 15:30--22:00; 6 during 23:00--00:00; 3 at other listed times |
-| DAX 40 (Germany 40) | 5.8 during 01:15--08:00; 1.4 during 08:00--09:00 and 09:00--17:30; 3.4 during 17:30--22:00; 8 during 22:00--01:15 |
-| FTSE 100 | 4 during 02:00--08:00; 3 during 08:00--09:00; 1 during 09:00--17:30; 3 during 17:30--22:00; 4 during 22:00--02:00 |
-| Dow Jones (Wall Street) | 3.1 during 08:00--15:30; 2.4 during 15:30--22:00; 10.8 during 23:00--00:00; 4 at other listed times |
+| S&P 500 (US 500) | &bull; 0.5 during 15:30--22:00<br>&bull; 1.7 during 23:00--00:00<br>&bull; 1.1 at other listed times |
+| Nasdaq 100 (US Tech 100) | &bull; 1.1 during 15:30--22:00<br>&bull; 6 during 23:00--00:00<br>&bull; 3 at other listed times |
+| DAX 40 (Germany 40) | &bull; 5.8 during 01:15--08:00<br>&bull; 1.4 during 08:00--09:00 and 09:00--17:30<br>&bull; 3.4 during 17:30--22:00<br>&bull; 8 during 22:00--01:15 |
+| FTSE 100 | &bull; 4 during 02:00--08:00<br>&bull; 3 during 08:00--09:00<br>&bull; 1 during 09:00--17:30<br>&bull; 3 during 17:30--22:00<br>&bull; 4 during 22:00--02:00 |
+| Dow Jones (Wall Street) | &bull; 3.1 during 08:00--15:30<br>&bull; 2.4 during 15:30--22:00<br>&bull; 10.8 during 23:00--00:00<br>&bull; 4 at other listed times |
 
 These are the published dealing spreads, not a guarantee of the spread received on every order. The schedule
 uses CET/IG's stated time conventions; check the current order ticket around daylight-saving changes.
@@ -729,11 +729,11 @@ second value is shown:
 
 | Index | Product symbol | Published fixed spread |
 | --- | --- | --- |
-| S&P 500 | SPI/USD | 1 point during 22:00--19:00; 2.4 points during 19:00--21:00 |
-| Nasdaq 100 | NDQ/USD | 3 points during 22:00--19:00; 7 points during 19:00--21:00 |
-| DAX 40 | DAX/EUR | 6 points during 07:00--15:30; 12 points during 00:31--07:00 and 15:30--20:00 |
-| FTSE 100 | FTS/GBP | 4 points during 07:00--20:00; 8 points during 00:00--07:00 |
-| Dow Jones | DOW/USD | 6 points during 22:00--19:00; 12 points during 19:00--21:00 |
+| S&P 500 | SPI/USD | &bull; 1 point during 22:00--19:00<br>&bull; 2.4 points during 19:00--21:00 |
+| Nasdaq 100 | NDQ/USD | &bull; 3 points during 22:00--19:00<br>&bull; 7 points during 19:00--21:00 |
+| DAX 40 | DAX/EUR | &bull; 6 points during 07:00--15:30<br>&bull; 12 points during 00:31--07:00 and 15:30--20:00 |
+| FTSE 100 | FTS/GBP | &bull; 4 points during 07:00--20:00<br>&bull; 8 points during 00:00--07:00 |
+| Dow Jones | DOW/USD | &bull; 6 points during 22:00--19:00<br>&bull; 12 points during 19:00--21:00 |
 
 These are the figures on easyMarkets' published global pricing page. The Netherlands/EU account may be routed to
 a different legal entity and product schedule. Confirm the actual EU account quote and TradingView product
