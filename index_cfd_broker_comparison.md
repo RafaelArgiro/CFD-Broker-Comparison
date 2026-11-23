@@ -1,12 +1,10 @@
 # Index CFD broker comparison --- Netherlands / EU retail account
 
-**Prepared:** 21 November 2026\
-**Scope:** Intraday index CFDs only\
-**Brokers:** IG, OANDA TMS, Pepperstone, CMC Markets, easyMarkets\
-**Indices:** S&P 500, Nasdaq 100, DAX 40, FTSE 100, Dow Jones Industrial
-Average\
-**Platform requirement:** Direct TradingView account integration,
-including order execution
+- **Prepared:** 21 November 2026
+- **Scope:** Intraday index CFDs only
+- **Brokers:** IG, OANDA TMS, Pepperstone, CMC Markets, easyMarkets
+- **Indices:** S&P 500, Nasdaq 100, DAX 40, FTSE 100, Dow Jones Industrial Average
+- **Platform requirement:** Direct TradingView account integration, including order execution
 
 ------------------------------------------------------------------------
 
@@ -120,33 +118,13 @@ IG's Dutch index-CFD product page gives spreads by time of day. The
 figures below are from the **Dutch cash-index CFD schedule dated 20
 September 2026**.
 
-  -----------------------------------------------------------------------
-  Index                               Indicative dealing spread by
-                                      session (index points)
-  ----------------------------------- -----------------------------------
-  S&P 500 (US 500)                    0.5 during 15:30--22:00; 1.7 during
-                                      23:00--00:00; 1.1 at other listed
-                                      times
-
-  Nasdaq 100 (US Tech 100)            1.1 during 15:30--22:00; 6 during
-                                      23:00--00:00; 3 at other listed
-                                      times
-
-  DAX 40 (Germany 40)                 5.8 during 01:15--08:00; 1.4 during
-                                      08:00--09:00 and 09:00--17:30; 3.4
-                                      during 17:30--22:00; 8 during
-                                      22:00--01:15
-
-  FTSE 100                            4 during 02:00--08:00; 3 during
-                                      08:00--09:00; 1 during
-                                      09:00--17:30; 3 during
-                                      17:30--22:00; 4 during 22:00--02:00
-
-  Dow Jones (Wall Street)             3.1 during 08:00--15:30; 2.4 during
-                                      15:30--22:00; 10.8 during
-                                      23:00--00:00; 4 at other listed
-                                      times
-  -----------------------------------------------------------------------
+| Index | Indicative dealing spread by session (index points) |
+| --- | --- |
+| S&P 500 (US 500) | 0.5 during 15:30--22:00; 1.7 during 23:00--00:00; 1.1 at other listed times |
+| Nasdaq 100 (US Tech 100) | 1.1 during 15:30--22:00; 6 during 23:00--00:00; 3 at other listed times |
+| DAX 40 (Germany 40) | 5.8 during 01:15--08:00; 1.4 during 08:00--09:00 and 09:00--17:30; 3.4 during 17:30--22:00; 8 during 22:00--01:15 |
+| FTSE 100 | 4 during 02:00--08:00; 3 during 08:00--09:00; 1 during 09:00--17:30; 3 during 17:30--22:00; 4 during 22:00--02:00 |
+| Dow Jones (Wall Street) | 3.1 during 08:00--15:30; 2.4 during 15:30--22:00; 10.8 during 23:00--00:00; 4 at other listed times |
 
 These are the published dealing spreads, not a guarantee of the spread
 received on every order. The schedule uses CET/IG's stated time
@@ -186,24 +164,13 @@ conditions](https://www.ig.com/nl/help-en-support/articles/840934-wat-zijn-ig-s-
 
 IG's Dutch product table publishes contract values per index point:
 
-  -----------------------------------------------------------------------
-  Index                               Published standard / mini value per
-                                                                    point
-  ------------------------------ ----------------------------------------
-  S&P 500                           \$250 / \$50 per point in the futures
-                                    table; Dutch cash schedule displays a
-                                                \$1 contract denomination
-
-  Nasdaq 100                        \$100 / \$20 per point in the futures
-                                    table; Dutch cash schedule displays a
-                                                \$1 contract denomination
-
-  DAX 40                                               €25 / €5 per point
-
-  FTSE 100                                             £10 / £2 per point
-
-  Dow Jones                      \$1 per point in the Dutch cash schedule
-  -----------------------------------------------------------------------
+| Index | Published standard / mini value per point |
+| --- | --- |
+| S&P 500 | \$250 / \$50 per point in the futures table; Dutch cash schedule displays a \$1 contract denomination |
+| Nasdaq 100 | \$100 / \$20 per point in the futures table; Dutch cash schedule displays a \$1 contract denomination |
+| DAX 40 | €25 / €5 per point |
+| FTSE 100 | £10 / £2 per point |
+| Dow Jones | \$1 per point in the Dutch cash schedule |
 
 **Important:** IG's Dutch help material contains different contract
 denominations across cash, futures and micro/EUR-denominated product
@@ -232,10 +199,11 @@ TradingView. I did not find a public promise of downloadable,
 broker-native tick history or a complete 1-minute historical CFD dataset
 for all five products.
 
-For systematic backtesting, ask IG: 1. How far back 1-minute bid/ask
-history is available for each CFD. 2. Whether historical bid/ask data
-can be exported. 3. Whether TradingView chart history uses IG's
-executable CFD prices or a separate reference feed.
+For systematic backtesting, ask IG:
+
+1. How far back 1-minute bid/ask history is available for each CFD.
+2. Whether historical bid/ask data can be exported.
+3. Whether TradingView chart history uses IG's executable CFD prices or a separate reference feed.
 
 Sources: - [IG TradingView
 integration](https://www.ig.com/nl/handelsplatformen/tradingview) - [IG
@@ -350,32 +318,13 @@ OANDA TMS publishes minimum order values and contract sizes for
 individual instruments. The following are the publicly visible
 specifications for the futures-based contracts:
 
-  ------------------------------------------------------------------------
-  Index       Product       Contract value   Minimum order     Transaction
-                                 per 1 lot                            step
-  ----------- ------------ --------------- --------------- ---------------
-  Nasdaq 100  US100.pro      Price × \$20;       0.001 lot           0.001
-                            \$20 per index                 
-                             point per lot                 
-
-  DAX 40      DE30.pro        Price × €25;       0.002 lot           0.002
-                             €25 per index                 
-                             point per lot                 
-
-  FTSE 100    GB100.pro       Price × £10;        0.01 lot            0.01
-                             £10 per index                 
-                             point per lot                 
-
-  Dow Jones   US30.pro        Price × \$5;       0.002 lot           0.002
-                             \$5 per index                 
-                             point per lot                 
-
-  S&P 500     US500.cash   Price × \$1 per        10 units              10
-                             lot as listed                 
-                                    on the                 
-                              cash-product                 
-                                      page                 
-  ------------------------------------------------------------------------
+| Index | Product | Contract value per 1 lot | Minimum order | Transaction step |
+| --- | --- | --- | --- | --- |
+| Nasdaq 100 | US100.pro | Price × \$20; \$20 per index point per lot | 0.001 lot | 0.001 |
+| DAX 40 | DE30.pro | Price × €25; €25 per index point per lot | 0.002 lot | 0.002 |
+| FTSE 100 | GB100.pro | Price × £10; £10 per index point per lot | 0.01 lot | 0.01 |
+| Dow Jones | US30.pro | Price × \$5; \$5 per index point per lot | 0.002 lot | 0.002 |
+| S&P 500 | US500.cash | Price × \$1 per lot as listed on the cash-product page | 10 units | 10 |
 
 The S&P row is a **cash product**, whereas the other rows above are
 futures-based CFDs. OANDA also publishes futures-based US500.pro
@@ -472,11 +421,11 @@ documents](https://pepperstone.com/en/about-us/policies/legal)
 Pepperstone publishes minimum and average spreads for index CFDs. Its
 public North American table currently shows:
 
-  Index                   Minimum spread   Average spread shown
-  --------------------- ---------------- ----------------------
-  S&P 500 (US500)                    0.4                    0.4
-  Nasdaq 100 (NAS100)                1.0                    1.0
-  Dow Jones (US30)                   2.0                    2.0
+| Index | Minimum spread | Average spread shown |
+| --- | ---: | ---: |
+| S&P 500 (US500) | 0.4 | 0.4 |
+| Nasdaq 100 (NAS100) | 1.0 | 1.0 |
+| Dow Jones (US30) | 2.0 | 2.0 |
 
 The table shows the same index spread figures for Standard and Razor
 accounts because Pepperstone does not charge commission on index CFDs.
@@ -528,10 +477,12 @@ the cash contracts.
 
 Do not infer the cash CFD minimum size or point value from the forward
 table. Confirm the following in the EU TradingView-connected account or
-its instrument specification: - Minimum volume and volume step for
-US500, NAS100, US30, GER40 and UK100. - Value of one index point for one
-lot. - Whether the account's TradingView route uses the same contract
-specification as MT5/cTrader.
+its instrument specification:
+
+- Minimum volume and volume step for US500, NAS100, US30, GER40 and UK100.
+- Value of one index point for one lot.
+- Whether the account's TradingView route uses the same contract
+    specification as MT5/cTrader.
 
 Source: - [Pepperstone --- index CFD and forward
 specifications](https://pepperstone.com/en/markets/indices/index-fees)
@@ -557,10 +508,12 @@ downloadable tick/bid/ask archive is available for every index CFD.
 TradingView chart history should not be assumed to be the same thing as
 an exportable archive of Pepperstone's executable bid/ask quotes.
 
-Ask Pepperstone for: 1. Historical 1-minute bid/ask data for each of the
-five CFDs. 2. Historical tick data availability and retention period. 3.
-Historical spread statistics by session. 4. Whether TradingView candles
-are built from Pepperstone's own CFD quotes.
+Ask Pepperstone for:
+
+1. Historical 1-minute bid/ask data for each of the five CFDs.
+2. Historical tick-data availability and retention period.
+3. Historical spread statistics by session.
+4. Whether TradingView candles are built from Pepperstone's own CFD quotes.
 
 Source: - [Pepperstone --- index fees and spread observation
 period](https://pepperstone.com/en/markets/indices/index-fees)
@@ -572,10 +525,10 @@ website. These are provider-reported figures and may cover a broader
 product/account population rather than the five index CFDs and the EU
 TradingView route specifically.
 
-For the EU website, Pepperstone reports: - Execution speeds from
-approximately 50 milliseconds. - A reported fill rate of 99.00% on a
-published measurement period (check the live page for the latest period
-and definition).
+For the EU website, Pepperstone reports:
+
+- Execution speeds from approximately 50 milliseconds.
+- A reported fill rate of 99.00% on a published measurement period (check the live page for the latest period and definition).
 
 Treat these as useful starting points, not proof of low slippage on
 NAS100 or GER40 during volatile openings.
@@ -621,13 +574,13 @@ TradingView](https://www.cmcmarkets.com/en/indices)
 CMC publishes instrument-specific minimum spreads on its index product
 pages. The figures below are from the product pages reviewed:
 
-  Index                             Published minimum spread
-  ------------------------------- --------------------------
-  S&P 500 (US SPX 500 Cash)                      0.50 points
-  Nasdaq 100 (US NDAQ 100 Cash)                   1.00 point
-  DAX 40 (Germany 40 Cash)                       1.20 points
-  FTSE 100 (UK 100 Cash)                         0.50 points
-  Dow Jones (US 30 Cash)                         2.20 points
+| Index | Published minimum spread |
+| --- | ---: |
+| S&P 500 (US SPX 500 Cash) | 0.50 points |
+| Nasdaq 100 (US NDAQ 100 Cash) | 1.00 point |
+| DAX 40 (Germany 40 Cash) | 1.20 points |
+| FTSE 100 (UK 100 Cash) | 0.50 points |
+| Dow Jones (US 30 Cash) | 2.20 points |
 
 These are minimum spreads, not average spreads. Some of the public
 product pages are country-specific and may show a different retail
@@ -674,13 +627,13 @@ The individual product pages reviewed show a **minimum size of 0.01**
 for the five products. CMC describes CFD trade size as a number of
 units/notional value and supports fractional trade sizes.
 
-  Index          Minimum size shown publicly Value per point
-  ------------ ----------------------------- -------------------------------------------------
-  S&P 500                               0.01 Unit-based; confirm point value in order ticket
-  Nasdaq 100                            0.01 Unit-based; confirm point value in order ticket
-  DAX 40                                0.01 Unit-based; confirm point value in order ticket
-  FTSE 100                              0.01 Unit-based; confirm point value in order ticket
-  Dow Jones                             0.01 Unit-based; confirm point value in order ticket
+| Index | Minimum size shown publicly | Value per point |
+| --- | ---: | --- |
+| S&P 500 | 0.01 | Unit-based; confirm point value in order ticket |
+| Nasdaq 100 | 0.01 | Unit-based; confirm point value in order ticket |
+| DAX 40 | 0.01 | Unit-based; confirm point value in order ticket |
+| FTSE 100 | 0.01 | Unit-based; confirm point value in order ticket |
+| Dow Jones | 0.01 | Unit-based; confirm point value in order ticket |
 
 CMC does not present one universal "one lot = X currency per point"
 convention in the public product pages reviewed. The actual monetary
@@ -716,10 +669,12 @@ CMC product pages show charts and historical price views. I did not find
 a public guarantee of a downloadable long-history 1-minute bid/ask or
 tick archive for all five index CFDs.
 
-Ask CMC: - Whether 1-minute bid/ask data is downloadable. - How far back
-CFD-specific historical data extends. - Whether historical prices are
-CMC's executable CFD quotes. - Whether TradingView receives the same CFD
-quote feed as the CMC platform.
+Ask CMC:
+
+- Whether 1-minute bid/ask data is downloadable.
+- How far back CFD-specific historical data extends.
+- Whether historical prices are CMC's executable CFD quotes.
+- Whether TradingView receives the same CFD quote feed as the CMC platform.
 
 Sources: - [CMC --- index
 trading](https://www.cmcmarkets.com/en/indices) - [CMC --- instrument
@@ -777,30 +732,13 @@ The published index table identifies these as **future indices**. The
 figures below are the regular-session fixed spread and the later-session
 figure where a second value is shown:
 
-  ------------------------------------------------------------------------
-  Index                 Product symbol              Published fixed spread
-  --------------------- --------------------- ----------------------------
-  S&P 500               SPI/USD               1 point during 22:00--19:00;
-                                                         2.4 points during
-                                                              19:00--21:00
-
-  Nasdaq 100            NDQ/USD                            3 points during
-                                                    22:00--19:00; 7 points
-                                                       during 19:00--21:00
-
-  DAX 40                DAX/EUR                            6 points during
-                                                   07:00--15:30; 12 points
-                                                   during 00:31--07:00 and
-                                                              15:30--20:00
-
-  FTSE 100              FTS/GBP                            4 points during
-                                                    07:00--20:00; 8 points
-                                                       during 00:00--07:00
-
-  Dow Jones             DOW/USD                            6 points during
-                                                   22:00--19:00; 12 points
-                                                       during 19:00--21:00
-  ------------------------------------------------------------------------
+| Index | Product symbol | Published fixed spread |
+| --- | --- | --- |
+| S&P 500 | SPI/USD | 1 point during 22:00--19:00; 2.4 points during 19:00--21:00 |
+| Nasdaq 100 | NDQ/USD | 3 points during 22:00--19:00; 7 points during 19:00--21:00 |
+| DAX 40 | DAX/EUR | 6 points during 07:00--15:30; 12 points during 00:31--07:00 and 15:30--20:00 |
+| FTSE 100 | FTS/GBP | 4 points during 07:00--20:00; 8 points during 00:00--07:00 |
+| Dow Jones | DOW/USD | 6 points during 22:00--19:00; 12 points during 19:00--21:00 |
 
 These are the figures on easyMarkets' published global pricing page. The
 Netherlands/EU account may be routed to a different legal entity and
@@ -835,13 +773,13 @@ conditions](https://www.easy-markets.com/int/platforms/tradingview)
 
 The published futures-index table gives contract values per index point:
 
-  Index                    Published value of one contract
-  ---------------------- ---------------------------------
-  S&P 500 (SPI/USD)                   \$50 per index point
-  Nasdaq 100 (NDQ/USD)                \$20 per index point
-  DAX 40 (DAX/EUR)                     €13 per index point
-  FTSE 100 (FTS/GBP)                   £10 per index point
-  Dow Jones (DOW/USD)                  \$5 per index point
+| Index | Published value of one contract |
+| --- | ---: |
+| S&P 500 (SPI/USD) | \$50 per index point |
+| Nasdaq 100 (NDQ/USD) | \$20 per index point |
+| DAX 40 (DAX/EUR) | €13 per index point |
+| FTSE 100 (FTS/GBP) | £10 per index point |
+| Dow Jones (DOW/USD) | \$5 per index point |
 
 The public table reviewed does **not** clearly state the minimum
 contract size or volume step for these index products. Ask easyMarkets
@@ -870,9 +808,12 @@ easyMarkets provides TradingView charting and market data, but I did not
 find a public commitment to downloadable historical bid/ask or
 tick-level execution data for its index CFDs.
 
-Ask whether it can provide: - 1-minute historical CFD bid/ask data. -
-Tick history and retention period. - Historical spread distributions by
-session. - The precise source of the TradingView chart feed.
+Ask whether it can provide:
+
+- 1-minute historical CFD bid/ask data.
+- Tick history and retention period.
+- Historical spread distributions by session.
+- The precise source of the TradingView chart feed.
 
 Source: - [easyMarkets --- TradingView
 platform](https://www.easy-markets.com/int/platforms/tradingview)
@@ -924,29 +865,13 @@ confirmed.
 
 ## TradingView and regulation
 
-  -----------------------------------------------------------------------
-  Broker            Direct            Netherlands/EU    Regulator
-                    TradingView       entity identified 
-                    trading           in public sources 
-  ----------------- ----------------- ----------------- -----------------
-  IG                Yes               IG Europe GmbH    BaFin (Germany);
-                                                        EEA passport into
-                                                        NL
-
-  OANDA             Yes, OANDA TMS EU OANDA TMS Brokers KNF (Poland); EEA
-                    integration       S.A.              passport into NL
-
-  Pepperstone       Yes               Pepperstone EU    CySEC (Cyprus)
-                                      Limited           
-
-  CMC Markets       Yes, standard CFD CMC Markets       BaFin (Germany);
-                    account           Germany GmbH      EEA passport into
-                                                        NL
-
-  easyMarkets       Yes               Easy Forex        CySEC (Cyprus);
-                                      Trading Limited   EEA passport into
-                                                        NL
-  -----------------------------------------------------------------------
+| Broker | Direct TradingView trading | Netherlands/EU entity identified | Regulator |
+| --- | --- | --- | --- |
+| IG | Yes | IG Europe GmbH | BaFin (Germany); EEA passport into NL |
+| OANDA | Yes, OANDA TMS EU integration | OANDA TMS Brokers S.A. | KNF (Poland); EEA passport into NL |
+| Pepperstone | Yes | Pepperstone EU Limited | CySEC (Cyprus) |
+| CMC Markets | Yes, standard CFD account | CMC Markets Germany GmbH | BaFin (Germany); EEA passport into NL |
+| easyMarkets | Yes | Easy Forex Trading Limited | CySEC (Cyprus); EEA passport into NL |
 
 AFM register pages: - [IG Europe
 GmbH](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=26FC2DAB-9D03-E911-80E2-005056BB0C82) -
@@ -965,78 +890,33 @@ These are the best public figures located in this research, but they are
 some are time-dependent dealing spreads, and some relate to
 futures-based CFDs rather than cash CFDs.
 
-  ----------------------------------------------------------------------------------
-  Broker             S&P 500   Nasdaq 100         DAX 40       FTSE 100    Dow Jones
-  ------------- ------------ ------------ -------------- -------------- ------------
-  IG               0.5 in US    1.1 in US    1.4 in main      1 in main    2.4 in US
-                     session      session        session        session      session
-
-  OANDA TMS            Check        Check  Check product  Check product        Check
-                     product      product   spread chart   spread chart      product
-                spread chart spread chart                               spread chart
-
-  Pepperstone      0.4 min /    1.0 min /   Current cash   Current cash    2.0 min /
-                     0.4 avg      1.0 avg  average needs  average needs      2.0 avg
-                   published    published   confirmation   confirmation    published
-
-  CMC Markets       0.50 min     1.00 min       1.20 min       0.50 min     2.20 min
-
-  easyMarkets   1 fixed (SPI      3 fixed     6 fixed in     4 fixed in      6 fixed
-                futures CFD)     (futures    main stated    main stated     (futures
-                                     CFD)        session        session         CFD)
-                                           (futures CFD)  (futures CFD) 
-  ----------------------------------------------------------------------------------
+| Broker | S&P 500 | Nasdaq 100 | DAX 40 | FTSE 100 | Dow Jones |
+| --- | --- | --- | --- | --- | --- |
+| IG | 0.5 in US session | 1.1 in US session | 1.4 in main session | 1 in main session | 2.4 in US session |
+| OANDA TMS | Check product spread chart | Check product spread chart | Check product spread chart | Check product spread chart | Check product spread chart |
+| Pepperstone | 0.4 min / 0.4 avg published | 1.0 min / 1.0 avg published | Current cash average needs confirmation | Current cash average needs confirmation | 2.0 min / 2.0 avg published |
+| CMC Markets | 0.50 min | 1.00 min | 1.20 min | 0.50 min | 2.20 min |
+| easyMarkets | 1 fixed (SPI futures CFD) | 3 fixed (futures CFD) | 6 fixed in main stated session (futures CFD) | 4 fixed in main stated session (futures CFD) | 6 fixed (futures CFD) |
 
 ## Commission and leverage
 
-  ------------------------------------------------------------------------
-  Broker                Separate commission     EU retail maximum leverage
-                        on index CFDs           for selected major indices
-  --------------------- --------------------- ----------------------------
-  IG                    No                                            20:1
-
-  OANDA TMS             No for retail index                           20:1
-                        CFDs, according to    
-                        fee schedule          
-
-  Pepperstone           No                                            20:1
-
-  CMC Markets           No on indices                                 20:1
-
-  easyMarkets           Advertises no                                 20:1
-                        commission; verify EU 
-                        account agreement     
-  ------------------------------------------------------------------------
+| Broker | Separate commission on index CFDs | EU retail maximum leverage for selected major indices |
+| --- | --- | ---: |
+| IG | No | 20:1 |
+| OANDA TMS | No for retail index CFDs, according to fee schedule | 20:1 |
+| Pepperstone | No | 20:1 |
+| CMC Markets | No on indices | 20:1 |
+| easyMarkets | Advertises no commission; verify EU account agreement | 20:1 |
 
 ## Minimum size and point value --- key differences
 
-  -----------------------------------------------------------------------
-  Broker                  Minimum size publicly   Contract value per
-                          established?            point publicly
-                                                  established?
-  ----------------------- ----------------------- -----------------------
-  IG                      Product ticket / Market Yes, but distinguish
-                          Info; standard and mini cash, futures and
-                          values published, but   micro/EUR variants
-                          product variants differ 
-
-  OANDA TMS               Yes, for individual     Yes, for individual
-                          products                products
-
-  Pepperstone             Not completely for all  Must confirm exact cash
-                          five cash CFDs in the   CFD contract
-                          public EU material      specification
-                          reviewed                
-
-  CMC Markets             0.01 shown on           Unit-based; confirm
-                          individual product      actual point value in
-                          pages reviewed          order ticket
-
-  easyMarkets             Not clearly stated for  Yes, for the published
-                          the five index CFDs in  futures-index contracts
-                          the public pricing      
-                          table                   
-  -----------------------------------------------------------------------
+| Broker | Minimum size publicly established? | Contract value per point publicly established? |
+| --- | --- | --- |
+| IG | Product ticket / Market Info; standard and mini values published, but product variants differ | Yes, but distinguish cash, futures and micro/EUR variants |
+| OANDA TMS | Yes, for individual products | Yes, for individual products |
+| Pepperstone | Not completely for all five cash CFDs in the public EU material reviewed | Must confirm exact cash CFD contract specification |
+| CMC Markets | 0.01 shown on individual product pages reviewed | Unit-based; confirm actual point value in order ticket |
+| easyMarkets | Not clearly stated for the five index CFDs in the public pricing table | Yes, for the published futures-index contracts |
 
 ------------------------------------------------------------------------
 
