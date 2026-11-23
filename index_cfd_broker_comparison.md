@@ -73,8 +73,11 @@ under the EU product-intervention framework. This is the relevant comparison for
 account. Higher leverage shown on international or professional-account pages is not the applicable retail
 benchmark.
 
-Reference: [ESMA --- CFD product-intervention
-measures](https://www.esma.europa.eu/press-news/esma-news/esma-agrees-prohibit-binary-options-and-restrict-cfds-protect-retail-investors).
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [ESMA --- CFD product-intervention measures](https://www.esma.europa.eu/press-news/esma-news/esma-agrees-prohibit-binary-options-and-restrict-cfds-protect-retail-investors)
+</div>
 
 ------------------------------------------------------------------------
 
@@ -87,10 +90,12 @@ measures](https://www.esma.europa.eu/press-news/esma-news/esma-agrees-prohibit-b
 **Supported.** IG's Dutch website explains that an IG account can be connected to TradingView and that trades
 can be executed directly from TradingView charts.
 
-Source: - [IG Netherlands ---
-TradingView](https://www.ig.com/nl/handelsplatformen/tradingview) - [IG
-TradingView
-FAQ](https://www.ig.com/en/help-and-support/articles/692529-tradingview-faqs)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [IG Netherlands --- TradingView](https://www.ig.com/nl/handelsplatformen/tradingview)
+- [IG TradingView FAQ](https://www.ig.com/en/help-and-support/articles/692529-tradingview-faqs)
+</div>
 
 ### Spreads
 
@@ -108,10 +113,12 @@ CFD schedule dated 20 September 2026**.
 These are the published dealing spreads, not a guarantee of the spread received on every order. The schedule
 uses CET/IG's stated time conventions; check the current order ticket around daylight-saving changes.
 
-Source: - [IG NL --- index CFD product conditions and dealing
-spreads](https://www.ig.com/nl/help-en-support/articles/840934-wat-zijn-ig-s-index-cfd-productvoorwaarden) -
-[IG NL --- index overview, minimum spreads and
-margin](https://www.ig.com/nl/indices)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [IG NL --- index CFD product conditions and dealing spreads](https://www.ig.com/nl/help-en-support/articles/840934-wat-zijn-ig-s-index-cfd-productvoorwaarden)
+- [IG NL --- index overview, minimum spreads and margin](https://www.ig.com/nl/indices)
+</div>
 
 ### Commission costs
 
@@ -119,9 +126,12 @@ IG states that its index CFDs have **no separate commission**; the spread is the
 costs can still apply, including overnight funding for cash index CFDs, currency conversion and optional
 guaranteed-stop premiums.
 
-Source: - [IG NL --- CFD trading
-costs](https://www.ig.com/nl/cfd-trading) - [IG NL --- index CFD product
-conditions](https://www.ig.com/nl/help-en-support/articles/840934-wat-zijn-ig-s-index-cfd-productvoorwaarden)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [IG NL --- CFD trading costs](https://www.ig.com/nl/cfd-trading)
+- [IG NL --- index CFD product conditions](https://www.ig.com/nl/help-en-support/articles/840934-wat-zijn-ig-s-index-cfd-productvoorwaarden)
+</div>
 
 ### Other costs
 
@@ -130,9 +140,12 @@ conditions](https://www.ig.com/nl/help-en-support/articles/840934-wat-zijn-ig-s-
 - Currency conversion may apply if the account currency differs from the instrument's P/L currency.
 - Futures-based index CFDs have their own expiry/rollover rules.
 
-Source: - [IG NL --- index CFD product
-conditions](https://www.ig.com/nl/help-en-support/articles/840934-wat-zijn-ig-s-index-cfd-productvoorwaarden) -
-[IG NL --- costs and charges](https://www.ig.com/nl/kosten-en-tarieven)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [IG NL --- index CFD product conditions](https://www.ig.com/nl/help-en-support/articles/840934-wat-zijn-ig-s-index-cfd-productvoorwaarden)
+- [IG NL --- costs and charges](https://www.ig.com/nl/kosten-en-tarieven)
+</div>
 
 ### Minimum contract size and contract value per point
 
@@ -151,17 +164,22 @@ micro/EUR-denominated product tables. Do not assume the standard/mini figure is 
 the exact TradingView-connected cash CFD's minimum size and point value in the live order ticket. IG itself says
 product-level minimum size is displayed in its Market Info/order ticket.
 
-Sources: - [IG NL --- cash and futures contract
-specifications](https://www.ig.com/nl/help-en-support/articles/840934-wat-zijn-ig-s-index-cfd-productvoorwaarden) -
-[IG Help Centre --- where to find minimum contract size and value per
-point](https://intercom-help.eu/ig-prod-help-center/en/articles/626578-product-information)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [IG NL --- cash and futures contract specifications](https://www.ig.com/nl/help-en-support/articles/840934-wat-zijn-ig-s-index-cfd-productvoorwaarden)
+- [IG Help Centre --- where to find minimum contract size and value per point](https://intercom-help.eu/ig-prod-help-center/en/articles/626578-product-information)
+</div>
 
 ### Leverage
 
 IG's Dutch index page lists **5% retail margin / 20:1 leverage** for all five selected indices.
 
-Source: - [IG NL --- index margins and
-leverage](https://www.ig.com/nl/indices)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [IG NL --- index margins and leverage](https://www.ig.com/nl/indices)
+</div>
 
 ### Historical data
 
@@ -174,9 +192,12 @@ For systematic backtesting, ask IG:
 2. Whether historical bid/ask data can be exported.
 3. Whether TradingView chart history uses IG's executable CFD prices or a separate reference feed.
 
-Sources: - [IG TradingView
-integration](https://www.ig.com/nl/handelsplatformen/tradingview) - [IG
-index markets](https://www.ig.com/nl/indices)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [IG TradingView integration](https://www.ig.com/nl/handelsplatformen/tradingview)
+- [IG index markets](https://www.ig.com/nl/indices)
+</div>
 
 ### Reliability / execution
 
@@ -187,7 +208,11 @@ index-specific fill-rate/slippage dataset for the Dutch retail account.
 Test live/demo platform stability, order rejections and stop execution during the 09:00 DAX and 15:30 US opens.
 Demo execution should not be assumed to match live execution.
 
-Source: - [IG NL --- index trading](https://www.ig.com/nl/indices)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [IG NL --- index trading](https://www.ig.com/nl/indices)
+</div>
 
 ### Regulation
 
@@ -195,10 +220,12 @@ The relevant EU entity shown in the AFM register is **IG Europe GmbH**, based in
 Germany and passported into the Netherlands. The AFM register explicitly notes that it does not directly
 supervise this entity.
 
-Sources: - [AFM register --- IG Europe
-GmbH](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=26FC2DAB-9D03-E911-80E2-005056BB0C82) -
-[IG Group --- regulatory
-licences](https://www.iggroup.com/about-us/governance/regulations)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [AFM register --- IG Europe GmbH](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=26FC2DAB-9D03-E911-80E2-005056BB0C82)
+- [IG Group --- regulatory licences](https://www.iggroup.com/about-us/governance/regulations)
+</div>
 
 **Assessment:** Strong candidate. Particularly useful public Dutch product data. Clarify the precise cash-CFD
 point value and minimum trade size before comparing it numerically with the other brokers.
@@ -211,8 +238,11 @@ point value and minimum trade size before comparing it numerically with the othe
 
 **Supported for OANDA TMS clients located in the EU.** This is directly relevant to a Netherlands-based client.
 
-Source: - [OANDA NL --- TradingView
-integration](https://www.oanda.com/eu-nl/tradingview)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [OANDA NL --- TradingView integration](https://www.oanda.com/eu-nl/tradingview)
+</div>
 
 ### Spreads
 
@@ -229,17 +259,15 @@ I have not inserted a single spread number for every index because the product v
 need to be matched to the exact account/product. The published minimum-spread field in a futures specification
 is not necessarily the average spread you will pay.
 
-Sources: - [OANDA TMS --- US100 instrument specification and historical
-spread
-chart](https://www.tmsbrokers.com/market-watch/live-quotes/US100) -
-[OANDA TMS --- DE30 instrument specification and historical spread
-chart](https://www.tmsbrokers.com/market-watch/live-quotes/DE30) -
-[OANDA TMS --- GB100 instrument specification and historical spread
-chart](https://www.tmsbrokers.com/market-watch/live-quotes/GB100) -
-[OANDA TMS --- US30 instrument specification and historical spread
-chart](https://www.tmsbrokers.com/market-watch/live-quotes/US30) -
-[OANDA TMS --- instrument
-specifications](https://www.oanda.com/eu-nl/instruments-specification)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [OANDA TMS --- US100 instrument specification and historical spread chart](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+- [OANDA TMS --- DE30 instrument specification and historical spread chart](https://www.tmsbrokers.com/market-watch/live-quotes/DE30)
+- [OANDA TMS --- GB100 instrument specification and historical spread chart](https://www.tmsbrokers.com/market-watch/live-quotes/GB100)
+- [OANDA TMS --- US30 instrument specification and historical spread chart](https://www.tmsbrokers.com/market-watch/live-quotes/US30)
+- [OANDA TMS --- instrument specifications](https://www.oanda.com/eu-nl/instruments-specification)
+</div>
 
 ### Commission costs
 
@@ -249,10 +277,12 @@ retail fee schedule also lists zero execution commission for index CFDs as "othe
 The fee schedule distinguishes retail from professional clients. Do not confuse the professional-client
 commission schedule with the retail account.
 
-Sources: - [OANDA NL --- index CFD
-costs](https://www.oanda.com/eu-nl/indices-cfd) - [OANDA TMS --- fees
-and commissions, valid from 30 April
-2026](https://www.oanda.com/eu-nl/document/53)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [OANDA NL --- index CFD costs](https://www.oanda.com/eu-nl/indices-cfd)
+- [OANDA TMS --- fees and commissions, valid from 30 April 2026](https://www.oanda.com/eu-nl/document/53)
+</div>
 
 ### Other costs
 
@@ -262,9 +292,12 @@ and commissions, valid from 30 April
 - Currency conversion may apply if the account currency differs from the product's quote currency.
 - The futures-based products have futures-linked pricing and contract-specific trading hours.
 
-Sources: - [OANDA NL --- index
-CFDs](https://www.oanda.com/eu-nl/indices-cfd) - [OANDA TMS --- product
-specifications](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [OANDA NL --- index CFDs](https://www.oanda.com/eu-nl/indices-cfd)
+- [OANDA TMS --- product specifications](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+</div>
 
 ### Minimum contract size and contract value per point
 
@@ -283,16 +316,15 @@ The S&P row is a **cash product**, whereas the other rows above are futures-base
 futures-based US500.pro specifications; compare the exact product available in the connected account before
 deciding which variant to use.
 
-Sources: - [OANDA TMS ---
-US100.pro](https://www.tmsbrokers.com/market-watch/live-quotes/US100) -
-[OANDA TMS ---
-DE30.pro](https://www.tmsbrokers.com/market-watch/live-quotes/DE30) -
-[OANDA TMS ---
-GB100.pro](https://www.tmsbrokers.com/market-watch/live-quotes/GB100) -
-[OANDA TMS ---
-US30.pro](https://www.tmsbrokers.com/market-watch/live-quotes/US30) -
-[OANDA TMS ---
-US500.cash](https://www.tmsbrokers.com/market-watch/live-quotes/US500)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [OANDA TMS --- US100.pro](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+- [OANDA TMS --- DE30.pro](https://www.tmsbrokers.com/market-watch/live-quotes/DE30)
+- [OANDA TMS --- GB100.pro](https://www.tmsbrokers.com/market-watch/live-quotes/GB100)
+- [OANDA TMS --- US30.pro](https://www.tmsbrokers.com/market-watch/live-quotes/US30)
+- [OANDA TMS --- US500.cash](https://www.tmsbrokers.com/market-watch/live-quotes/US500)
+</div>
 
 ### Leverage
 
@@ -300,8 +332,11 @@ The OANDA TMS specifications list retail margin of 5% for the selected major ind
 corresponding to **20:1 retail leverage**. Some pages also show a higher professional/experienced-client margin
 tier. That higher figure is not the normal EU retail limit.
 
-Source: - [OANDA TMS --- individual index product
-specifications](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [OANDA TMS --- individual index product specifications](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+</div>
 
 ### Historical data
 
@@ -315,10 +350,12 @@ actual trading window, rather than relying only on a headline minimum spread.
 This does not automatically mean that a downloadable, long-history 1-minute bid/ask archive is included. Ask
 what data can be exported and how far back it goes.
 
-Sources: - [OANDA TMS --- US100 historical spread
-chart](https://www.tmsbrokers.com/market-watch/live-quotes/US100) -
-[OANDA --- instrument specifications and historical spread
-charts](https://www.oanda.com/eu-nl/instruments-specification)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [OANDA TMS --- US100 historical spread chart](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+- [OANDA --- instrument specifications and historical spread charts](https://www.oanda.com/eu-nl/instruments-specification)
+</div>
 
 ### Reliability / execution
 
@@ -326,10 +363,12 @@ OANDA TMS publishes a best-execution policy describing quote aggregation, filter
 and monitoring of execution quality, including rejected orders and requotes. This is useful policy-level
 information, but it is not a substitute for instrument-specific live slippage statistics.
 
-Sources: - [OANDA TMS --- best execution policy / legal
-documents](https://www.oanda.com/eu-de/document/31) - [OANDA TMS ---
-product
-specifications](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [OANDA TMS --- best execution policy / legal documents](https://www.oanda.com/eu-de/document/31)
+- [OANDA TMS --- product specifications](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+</div>
 
 ### Regulation
 
@@ -337,10 +376,12 @@ The relevant entity is **OANDA TMS Brokers S.A.**, based in Poland and supervise
 Supervision Authority (KNF). The AFM register lists it as an incoming EEA-passported investment firm and states
 that the AFM does not directly supervise it.
 
-Sources: - [AFM register --- OANDA TMS Brokers
-S.A.](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=6E2C6BC5-A486-ED11-A2FF-005056BBFEB2) -
-[OANDA TMS --- instrument specification/legal
-details](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [AFM register --- OANDA TMS Brokers S.A.](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=6E2C6BC5-A486-ED11-A2FF-005056BBFEB2)
+- [OANDA TMS --- instrument specification/legal details](https://www.tmsbrokers.com/market-watch/live-quotes/US100)
+</div>
 
 **Assessment:** Very interesting for your use case because of the detailed instrument specifications and
 historical spread charts. Be careful to compare cash with cash or futures-based with futures-based products.
@@ -354,9 +395,12 @@ historical spread charts. Be careful to compare cash with cash or futures-based 
 **Supported.** Pepperstone lists TradingView as one of its trading platforms. The EU entity is Pepperstone EU
 Limited.
 
-Source: - [Pepperstone EU --- platforms and
-TradingView](https://pepperstone.com/en-eu/) - [Pepperstone EU --- legal
-documents](https://pepperstone.com/en/about-us/policies/legal)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [Pepperstone EU --- platforms and TradingView](https://pepperstone.com/en-eu/)
+- [Pepperstone EU --- legal documents](https://pepperstone.com/en/about-us/policies/legal)
+</div>
 
 ### Spreads
 
@@ -377,20 +421,24 @@ UK100 cash CFDs are available, but I could not extract a current, dated EU-accou
 both products from the public table. The forward CFD products have separate minimum spreads (GER40-F 3 points
 and UK100-F 3 points); these are not the cash-CFD spreads.
 
-Sources: - [Pepperstone --- index CFD spreads and
-fees](https://pepperstone.com/en/markets/indices/index-fees) -
-[Pepperstone EU --- index
-CFDs](https://pepperstone.com/en-eu/markets/indices) - [Pepperstone ---
-CFD forward
-specifications](https://pepperstone.com/en/markets/indices/index-fees)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [Pepperstone --- index CFD spreads and fees](https://pepperstone.com/en/markets/indices/index-fees)
+- [Pepperstone EU --- index CFDs](https://pepperstone.com/en-eu/markets/indices)
+- [Pepperstone --- CFD forward specifications](https://pepperstone.com/en/markets/indices/index-fees)
+</div>
 
 ### Commission costs
 
 Pepperstone states that it charges **no commission on index CFDs** on either Standard or Razor accounts. The
 spread is the main dealing cost.
 
-Source: - [Pepperstone --- index CFD
-fees](https://pepperstone.com/en/markets/indices/index-fees)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [Pepperstone --- index CFD fees](https://pepperstone.com/en/markets/indices/index-fees)
+</div>
 
 ### Other costs
 
@@ -400,8 +448,11 @@ fees](https://pepperstone.com/en/markets/indices/index-fees)
     They are rolled to the next contract month if still held at expiry.
 - Currency conversion and other account-level charges may apply.
 
-Source: - [Pepperstone --- index CFD fees, swaps and
-forwards](https://pepperstone.com/en/markets/indices/index-fees)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [Pepperstone --- index CFD fees, swaps and forwards](https://pepperstone.com/en/markets/indices/index-fees)
+</div>
 
 ### Minimum contract size and contract value per point
 
@@ -419,8 +470,11 @@ TradingView-connected account or its instrument specification:
 - Whether the account's TradingView route uses the same contract
     specification as MT5/cTrader.
 
-Source: - [Pepperstone --- index CFD and forward
-specifications](https://pepperstone.com/en/markets/indices/index-fees)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [Pepperstone --- index CFD and forward specifications](https://pepperstone.com/en/markets/indices/index-fees)
+</div>
 
 ### Leverage
 
@@ -428,10 +482,12 @@ For a Netherlands/EU retail account, the major indices are subject to the **20:1
 retail limit. Do not use the higher leverage figures shown on non-EU Pepperstone pages as the Dutch retail
 setting.
 
-Sources: - [ESMA --- CFD product
-intervention](https://www.esma.europa.eu/press-news/esma-news/esma-agrees-prohibit-binary-options-and-restrict-cfds-protect-retail-investors) -
-[Pepperstone EU --- legal and regulatory
-information](https://pepperstone.com/en-eu/)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [ESMA --- CFD product intervention](https://www.esma.europa.eu/press-news/esma-news/esma-agrees-prohibit-binary-options-and-restrict-cfds-protect-retail-investors)
+- [Pepperstone EU --- legal and regulatory information](https://pepperstone.com/en-eu/)
+</div>
 
 ### Historical data
 
@@ -448,8 +504,11 @@ Ask Pepperstone for:
 3. Historical spread statistics by session.
 4. Whether TradingView candles are built from Pepperstone's own CFD quotes.
 
-Source: - [Pepperstone --- index fees and spread observation
-period](https://pepperstone.com/en/markets/indices/index-fees)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [Pepperstone --- index fees and spread observation period](https://pepperstone.com/en/markets/indices/index-fees)
+</div>
 
 ### Reliability / execution
 
@@ -464,10 +523,12 @@ For the EU website, Pepperstone reports:
 
 Treat these as useful starting points, not proof of low slippage on NAS100 or GER40 during volatile openings.
 
-Sources: - [Pepperstone EU --- index trading and execution
-information](https://pepperstone.com/en-eu/markets/indices) -
-[Pepperstone EU --- legal
-documents](https://pepperstone.com/en/about-us/policies/legal)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [Pepperstone EU --- index trading and execution information](https://pepperstone.com/en-eu/markets/indices)
+- [Pepperstone EU --- legal documents](https://pepperstone.com/en/about-us/policies/legal)
+</div>
 
 ### Regulation
 
@@ -476,9 +537,12 @@ Cyprus Securities and Exchange Commission (CySEC), licence 388/20. The AFM regis
 entity's current passport status for the Netherlands and the account agreement should confirm that this is the
 contracting entity.
 
-Sources: - [Pepperstone EU --- legal and regulatory
-information](https://pepperstone.com/en-eu/) - [Pepperstone legal
-documents](https://pepperstone.com/en/about-us/policies/legal)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [Pepperstone EU --- legal and regulatory information](https://pepperstone.com/en-eu/)
+- [Pepperstone legal documents](https://pepperstone.com/en/about-us/policies/legal)
+</div>
 
 **Assessment:** Strong candidate on published US index spreads and zero index commission. The main gaps to
 resolve are current cash GER40/UK100 spreads, minimum cash-contract sizes and point values for the EU account.
@@ -493,8 +557,11 @@ resolve are current cash GER40/UK100 spreads, minimum cash-contract sizes and po
 orders can be opened, managed and closed from TradingView. Its separate MT4 account does not provide access to
 this integration.
 
-Source: - [CMC Markets --- index trading and
-TradingView](https://www.cmcmarkets.com/en/indices)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [CMC Markets --- index trading and TradingView](https://www.cmcmarkets.com/en/indices)
+</div>
 
 ### Spreads
 
@@ -513,23 +580,26 @@ These are minimum spreads, not average spreads. Some of the public product pages
 show a different retail entity, margin schedule or promotion. Confirm the exact Netherlands-account figures in
 the CMC order ticket before treating the table as a final quote.
 
-Sources: - [CMC --- US SPX 500
-Cash](https://www.cmcmarkets.com/en-de/instruments/us-spx-500-cash) -
-[CMC --- US NDAQ 100
-Cash](https://www.cmcmarkets.com/en-ie/instruments/us-ndaq-100-cash) -
-[CMC --- Germany 40
-Cash](https://www.cmcmarkets.com/en-gb/instruments/germany-40-cash) -
-[CMC --- UK 100
-Cash](https://www.cmcmarkets.com/en-de/instruments/uk-100-cash) - [CMC
---- US 30 Cash](https://www.cmcmarkets.com/en-gb/instruments/us-30-cash)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [CMC --- US SPX 500 Cash](https://www.cmcmarkets.com/en-de/instruments/us-spx-500-cash)
+- [CMC --- US NDAQ 100 Cash](https://www.cmcmarkets.com/en-ie/instruments/us-ndaq-100-cash)
+- [CMC --- Germany 40 Cash](https://www.cmcmarkets.com/en-gb/instruments/germany-40-cash)
+- [CMC --- UK 100 Cash](https://www.cmcmarkets.com/en-de/instruments/uk-100-cash)
+- [CMC --- US 30 Cash](https://www.cmcmarkets.com/en-gb/instruments/us-30-cash)
+</div>
 
 ### Commission costs
 
 CMC states that CFD commissions apply to shares and ETFs, not index CFDs. Therefore, for the five selected index
 CFDs, the main transaction cost is the spread.
 
-Source: - [CMC --- account and cost
-comparison](https://www.cmcmarkets.com/en-de/compare-trading-accounts)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [CMC --- account and cost comparison](https://www.cmcmarkets.com/en-de/compare-trading-accounts)
+</div>
 
 ### Other costs
 
@@ -539,9 +609,12 @@ comparison](https://www.cmcmarkets.com/en-de/compare-trading-accounts)
 - Guaranteed stop-loss orders may carry a premium.
 - Other account-level charges should be checked in the Netherlands client agreement.
 
-Sources: - [CMC --- index product
-pages](https://www.cmcmarkets.com/en/indices) - [CMC --- trading
-costs](https://www.cmcmarkets.com/en-de/compare-trading-accounts)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [CMC --- index product pages](https://www.cmcmarkets.com/en/indices)
+- [CMC --- trading costs](https://www.cmcmarkets.com/en-de/compare-trading-accounts)
+</div>
 
 ### Minimum contract size and contract value per point
 
@@ -560,25 +633,27 @@ CMC does not present one universal "one lot = X currency per point" convention i
 reviewed. The actual monetary value per point depends on the instrument's unit definition and position size.
 Before trading, use the order ticket to establish the cash P/L for a one-point move at the minimum size.
 
-Sources: - [CMC --- account comparison and fractional trade
-sizes](https://www.cmcmarkets.com/en-de/compare-trading-accounts) - [CMC
---- US SPX 500
-Cash](https://www.cmcmarkets.com/en-de/instruments/us-spx-500-cash) -
-[CMC --- US NDAQ 100
-Cash](https://www.cmcmarkets.com/en-ie/instruments/us-ndaq-100-cash) -
-[CMC --- Germany 40
-Cash](https://www.cmcmarkets.com/en-gb/instruments/germany-40-cash) -
-[CMC --- UK 100
-Cash](https://www.cmcmarkets.com/en-de/instruments/uk-100-cash) - [CMC
---- US 30 Cash](https://www.cmcmarkets.com/en-gb/instruments/us-30-cash)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [CMC --- account comparison and fractional trade sizes](https://www.cmcmarkets.com/en-de/compare-trading-accounts)
+- [CMC --- US SPX 500 Cash](https://www.cmcmarkets.com/en-de/instruments/us-spx-500-cash)
+- [CMC --- US NDAQ 100 Cash](https://www.cmcmarkets.com/en-ie/instruments/us-ndaq-100-cash)
+- [CMC --- Germany 40 Cash](https://www.cmcmarkets.com/en-gb/instruments/germany-40-cash)
+- [CMC --- UK 100 Cash](https://www.cmcmarkets.com/en-de/instruments/uk-100-cash)
+- [CMC --- US 30 Cash](https://www.cmcmarkets.com/en-gb/instruments/us-30-cash)
+</div>
 
 ### Leverage
 
 The EU retail maximum for these major index CFDs is **20:1 / 5% margin**. Some CMC global pages advertise higher
 leverage, but those figures are not the correct reference for a Netherlands-based EU retail account.
 
-Source: - [ESMA --- CFD product
-intervention](https://www.esma.europa.eu/press-news/esma-news/esma-agrees-prohibit-binary-options-and-restrict-cfds-protect-retail-investors)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [ESMA --- CFD product intervention](https://www.esma.europa.eu/press-news/esma-news/esma-agrees-prohibit-binary-options-and-restrict-cfds-protect-retail-investors)
+</div>
 
 ### Historical data
 
@@ -592,9 +667,12 @@ Ask CMC:
 - Whether historical prices are CMC's executable CFD quotes.
 - Whether TradingView receives the same CFD quote feed as the CMC platform.
 
-Sources: - [CMC --- index
-trading](https://www.cmcmarkets.com/en/indices) - [CMC --- instrument
-pages](https://www.cmcmarkets.com/en/instruments/us-30-cash)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [CMC --- index trading](https://www.cmcmarkets.com/en/indices)
+- [CMC --- instrument pages](https://www.cmcmarkets.com/en/instruments/us-30-cash)
+</div>
 
 ### Reliability / execution
 
@@ -604,8 +682,11 @@ information on its platform pages. These are broker-reported, not a direct compa
 For this strategy, test order handling and stop execution during the DAX and US opens rather than relying on
 general platform claims.
 
-Source: - [CMC --- index trading and execution
-information](https://www.cmcmarkets.com/en/indices)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [CMC --- index trading and execution information](https://www.cmcmarkets.com/en/indices)
+</div>
 
 ### Regulation
 
@@ -613,10 +694,12 @@ For EU clients, the relevant entity is **CMC Markets Germany GmbH**, based in Fr
 is passported into the Netherlands. The AFM register notes that it does not directly supervise this German
 entity.
 
-Sources: - [AFM register --- CMC Markets Germany
-GmbH](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=B3045630-C2A1-EB11-A2DE-005056BB4E9F) -
-[CMC Markets Germany --- imprint and BaFin
-details](https://www.cmcmarkets.com/en-de/imprint)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [AFM register --- CMC Markets Germany GmbH](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=B3045630-C2A1-EB11-A2DE-005056BB4E9F)
+- [CMC Markets Germany --- imprint and BaFin details](https://www.cmcmarkets.com/en-de/imprint)
+</div>
 
 **Assessment:** Strong candidate for the combination of TradingView, small minimum size and product-level
 spread/holding-cost disclosure. The main remaining question is the exact monetary point value at 0.01 size and
@@ -631,10 +714,12 @@ whether the published product-page figures match the Dutch account.
 **Supported.** easyMarkets says customers can connect their account to TradingView, place trades directly from
 charts and manage/close those trades through its connected easyMarkets account.
 
-Source: - [easyMarkets --- TradingView
-integration](https://www.easy-markets.com/int/platforms/tradingview) -
-[easyMarkets --- integration
-announcement](https://www.easy-markets.com/int/about/company/easymarkets-integrates-with-tradingview/)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [easyMarkets --- TradingView integration](https://www.easy-markets.com/int/platforms/tradingview)
+- [easyMarkets --- integration announcement](https://www.easy-markets.com/int/about/company/easymarkets-integrates-with-tradingview/)
+</div>
 
 ### Spreads
 
@@ -654,18 +739,23 @@ These are the figures on easyMarkets' published global pricing page. The Netherl
 a different legal entity and product schedule. Confirm the actual EU account quote and TradingView product
 before relying on these numbers.
 
-Sources: - [easyMarkets --- published index spreads and contract
-specifications](https://www.easy-markets.com/int/trade/forex-spreads/) -
-[easyMarkets --- S&P 500 product
-page](https://www.easy-markets.com/int/trade/indices/spi-usd/)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [easyMarkets --- published index spreads and contract specifications](https://www.easy-markets.com/int/trade/forex-spreads/)
+- [easyMarkets --- S&P 500 product page](https://www.easy-markets.com/int/trade/indices/spi-usd/)
+</div>
 
 ### Commission costs
 
 easyMarkets advertises no commission on its TradingView offering. Its pricing page describes fixed spreads and
 no hidden commission. Verify the same terms in the EU client agreement.
 
-Source: - [easyMarkets --- TradingView account benefits and
-costs](https://www.easy-markets.com/int/platforms/tradingview)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [easyMarkets --- TradingView account benefits and costs](https://www.easy-markets.com/int/platforms/tradingview)
+</div>
 
 ### Other costs
 
@@ -673,8 +763,11 @@ easyMarkets advertises no funding or hidden fees on its TradingView page and off
 feature with a wider spread/premium condition. Confirm the exact EU account terms, any rollover treatment on the
 futures-based index CFDs, and any currency conversion charges.
 
-Source: - [easyMarkets --- TradingView
-conditions](https://www.easy-markets.com/int/platforms/tradingview)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [easyMarkets --- TradingView conditions](https://www.easy-markets.com/int/platforms/tradingview)
+</div>
 
 ### Minimum contract size and contract value per point
 
@@ -692,8 +785,11 @@ The public table reviewed does **not** clearly state the minimum contract size o
 products. Ask easyMarkets to confirm the minimum order and increment for the TradingView route before opening an
 account.
 
-Source: - [easyMarkets --- index spread and contract-size
-table](https://www.easy-markets.com/int/trade/forex-spreads/)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [easyMarkets --- index spread and contract-size table](https://www.easy-markets.com/int/trade/forex-spreads/)
+</div>
 
 ### Leverage
 
@@ -703,8 +799,11 @@ the appropriate leverage figures for a Dutch/EU retail client.**
 The relevant EU retail maximum for these major index CFDs is **20:1 / 5% margin**, subject to the applicable EU
 account classification and instrument.
 
-Source: - [ESMA --- CFD product
-intervention](https://www.esma.europa.eu/press-news/esma-news/esma-agrees-prohibit-binary-options-and-restrict-cfds-protect-retail-investors)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [ESMA --- CFD product intervention](https://www.esma.europa.eu/press-news/esma-news/esma-agrees-prohibit-binary-options-and-restrict-cfds-protect-retail-investors)
+</div>
 
 ### Historical data
 
@@ -718,8 +817,11 @@ Ask whether it can provide:
 - Historical spread distributions by session.
 - The precise source of the TradingView chart feed.
 
-Source: - [easyMarkets --- TradingView
-platform](https://www.easy-markets.com/int/platforms/tradingview)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [easyMarkets --- TradingView platform](https://www.easy-markets.com/int/platforms/tradingview)
+</div>
 
 ### Reliability / execution
 
@@ -730,10 +832,12 @@ it may involve a wider spread or premium and should be compared on its own terms
 The legal page lists historical execution-quality reports, but the visible reports are old. I did not find a
 current, independently comparable index-specific fill-rate or slippage study.
 
-Sources: - [easyMarkets --- TradingView and guaranteed stop
-conditions](https://www.easy-markets.com/int/platforms/tradingview) -
-[easyMarkets --- legal documents and execution-quality
-reports](https://www.easy-markets.com/int/legal/)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [easyMarkets --- TradingView and guaranteed stop conditions](https://www.easy-markets.com/int/platforms/tradingview)
+- [easyMarkets --- legal documents and execution-quality reports](https://www.easy-markets.com/int/legal/)
+</div>
 
 ### Regulation
 
@@ -745,12 +849,13 @@ Do not confuse this EU entity with EF Worldwide Ltd, which appears on easyMarket
 licensed in offshore jurisdictions. Confirm that a Dutch application is opened with Easy Forex Trading Ltd and
 that the client agreement names that entity.
 
-Sources: - [AFM register --- Easy Forex Trading Limited /
-easyMarkets](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=523FF86E-68A1-E011-A203-005056BE6692) -
-[CySEC --- Easy Forex Trading Ltd, licence
-079/07](https://www.cysec.gov.cy/en-GB/entities/investment-firms/cypriot/37685/) -
-[easyMarkets --- legal entity routing and
-licences](https://www.easy-markets.com/int/legal/)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [AFM register --- Easy Forex Trading Limited / easyMarkets](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=523FF86E-68A1-E011-A203-005056BE6692)
+- [CySEC --- Easy Forex Trading Ltd, licence 079/07](https://www.cysec.gov.cy/en-GB/entities/investment-firms/cypriot/37685/)
+- [easyMarkets --- legal entity routing and licences](https://www.easy-markets.com/int/legal/)
+</div>
 
 **Assessment:** Interesting if fixed spreads and TradingView are priorities. The futures-based contract values
 are clearly stated, but minimum size, EU-specific pricing and the applicable entity must be confirmed.
@@ -769,15 +874,16 @@ are clearly stated, but minimum size, EU-specific pricing and the applicable ent
 | CMC Markets | Yes, standard CFD account | CMC Markets Germany GmbH | BaFin (Germany); EEA passport into NL |
 | easyMarkets | Yes | Easy Forex Trading Limited | CySEC (Cyprus); EEA passport into NL |
 
-AFM register pages: - [IG Europe
-GmbH](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=26FC2DAB-9D03-E911-80E2-005056BB0C82) -
-[OANDA TMS Brokers
-S.A.](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=6E2C6BC5-A486-ED11-A2FF-005056BBFEB2) -
-[CMC Markets Germany
-GmbH](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=B3045630-C2A1-EB11-A2DE-005056BB4E9F) -
-[Easy Forex Trading
-Limited](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=523FF86E-68A1-E011-A203-005056BE6692) -
-[Pepperstone EU legal page](https://pepperstone.com/en-eu/)
+<div style="background:#e0e9ff;border-left:4px solid #003acc;padding:8px">
+
+**References**
+- [AFM register --- IG Europe GmbH](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=26FC2DAB-9D03-E911-80E2-005056BB0C82)
+- [AFM register --- OANDA TMS Brokers S.A.](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=6E2C6BC5-A486-ED11-A2FF-005056BBFEB2)
+- [AFM register --- CMC Markets Germany GmbH](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=B3045630-C2A1-EB11-A2DE-005056BB4E9F)
+- [AFM register --- Easy Forex Trading Limited](https://www.afm.nl/en/sector/registers/vergunningenregisters/beleggingsondernemingen/details?id=523FF86E-68A1-E011-A203-005056BE6692)
+- [Pepperstone EU legal page](https://pepperstone.com/en-eu/)
+
+</div>
 
 ## Spreads --- selected indices
 
